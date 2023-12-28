@@ -61,7 +61,7 @@ if streamlit.button('Get Fuit Load List'):
 
 
 #don't run anything past here while we are troubleshooting
-streamlit.stop()
+#streamlit.stop()
 
 
 
